@@ -1,13 +1,13 @@
 var canele = 0;
 var four = 1;
 
-function NewCanele() {
+function AddCanele() {
     canele += four;
     let paragraphe = "Vous avez " + canele.toString() + " canelés";
     document.getElementById("canelé").innerHTML = paragraphe;
 }
 
-function NewFour() {
+function AddFour() {
     if(canele >= 25) {
         canele -= 25;
         four += 1;
