@@ -40,6 +40,7 @@ Clicker.
 # 🚀 The technology I use
 
 <p>
+  <img alt="VCS" src="https://img.shields.io/badge/-VCS-ea2845?style=flat-square&logo=vcs&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-ea2845?style=flat-square&logo=html&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ea2047?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-ea2047?style=flat-square&logo=css&logoColor=white" />
